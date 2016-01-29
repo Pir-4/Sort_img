@@ -1,0 +1,1 @@
+To use the script you need to install Python Imaging Library (PIL) http://www.pythonware.com/products/pil/
